@@ -1,0 +1,63 @@
+﻿body {
+   
+}
+#div1{
+    margin-right: 330px;
+}
+#div2{
+    margin-left: 330px;
+}
+#div3 {
+    margin-left: 330px;
+}
+#div3list{
+    margin-left: 50px;
+}
+#paragraph1{
+    margin-left: 392px;
+}
+dd{
+    font-size: 21px;
+}
+
+a{
+    color: black;
+}
+
+#div4 {
+    margin-left: 330px;
+}
+#paragraph2 {
+    margin-left: 392px;
+}
+#reference:link
+{
+    text-decoration: none;
+}
+
+
+#reference:visited {
+    text-decoration: none;
+}
+
+
+#reference:hover {
+    text-decoration: none;
+}
+
+
+#reference:active {
+    text-decoration: none;
+}
+
+#textleft{
+    width: 50%;
+    float: left;
+}
+#textright{
+    width: 50%;
+    float: right;
+}
+
+
+
